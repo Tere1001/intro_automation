@@ -1,0 +1,64 @@
+<h1>Add A New Song</h1>
+Etiqueta: h1
+Texto:Add new song
+Atributo: N/A
+
+<label for="title">Title:</label>
+Etiqueta: label 
+Texto:title
+Atributo: for
+
+<input id="title" name="song[title]" type="text" value="">
+Etiqueta: imput 
+Texto: N/A
+Atributo: id, name, type, value
+
+<label for="length">Length:</label>
+Etiqueta: label 
+Texto:length
+Atributo: for
+
+<input id="length" name="song[length]" type="number" value="">
+Etiqueta: input
+Texto: n/a
+Atributo: id, name, type, value
+
+
+<label for="released_on">Date(mm/dd/yyyy):</label>
+Etiqueta: label 
+Texto: Date(mm/dd/yyyy):
+Atributo: for
+
+<input id="released_on" name="song[released_on]" type="text" value="">
+Etiqueta: input
+Texto: n/a
+Atributo: id, name, type, value
+
+<label for="lyrics">Lyrics:</label>
+Etiqueta: label 
+Texto: Lyrics:
+Atributo:  for
+
+<textarea id="lyrics" name="song[lyrics]"></textarea>
+Etiqueta: textarea 
+Texto: n/a
+Atributo: id, name
+
+<input type="submit" value="Save Song">
+Etiqueta: input 
+Texto:n/a
+Atributo: type, value 
+
+
+<a href="/logout">log out</a>
+Etiqueta:a 
+Texto: log out
+Atributo: href
+
+
+
+------canciones------------
+Far Caspian - Between Days
+https://www.youtube.com/watch?v=qm0ru2iBuB0
+
+
